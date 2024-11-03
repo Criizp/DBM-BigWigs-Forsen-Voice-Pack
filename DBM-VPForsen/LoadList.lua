@@ -29,5 +29,9 @@ function DBMDPForsen() -- Register Defeat sounds to DBM.Victory table
         text    = "Forsen: Legolas",
         value   = "Interface\\AddOns\\DBM-VPForsen\\Defeat\\ForsenDefeat2.ogg"
     })
+    insert(DBM.Defeat, {
+        text    = "Forsen: Unlucky",
+        value   = "Interface\\AddOns\\DBM-VPForsen\\Defeat\\ForsenDefeat3.ogg"
+    })
     inserted2 = true
 end
