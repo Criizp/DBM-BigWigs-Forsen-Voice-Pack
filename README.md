@@ -1,7 +1,10 @@
 # Forsen Voice Pack
-This is a custom countdown DBM voice pack using forsen's voice
 
 Forsen is able to count to 10 without his MOM's help  
+
+## About
+
+This is a custom countdown DBM voice pack using [enlyth's "baj-tts"](https://github.com/enlyth/baj-tts) 
 
 ## Installation
 
@@ -14,4 +17,4 @@ Head in game and type /dbm, under "Core options > Alerts, click "Countdowns & Vo
 # Credits
 made by me :) /Criizp
 
-Huge thanks to [enlyth's "baj-tts"](https://github.com/enlyth/baj-tts) for making this voicepack possible.
+Again huge thanks to [enlyth's "baj-tts"](https://github.com/enlyth/baj-tts) for making this voicepack possible.
