@@ -14,7 +14,7 @@ Head in game and type /dbm, under "Core options > Alerts, click "Countdowns & Vo
 ![alt text](SetUpDBM.png)
 
 If you also want to enable Victory and/or Deafeat sounds you can do it by selecting the "Event Sounds" and using the drop down menus
-![alt text](SetupEventSounds)
+![alt text](SetupEventSounds.png)
 
 ## Join ta guild today!
 
