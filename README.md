@@ -13,6 +13,9 @@ Drag and drop the folder called "DBM-VPForsen" into your World of Warcraft Addon
 Head in game and type /dbm, under "Core options > Alerts, click "Countdowns & Voice Packs", Change "Set voice for pull timers" to "Forsen VoicePack"
 ![alt text](SetUpDBM.png)
 
+If you also want to enable Victory and/or Deafeat sounds you can do it by selecting the "Event Sounds" and using the drop down menus
+![alt text](SetupEventSounds)
+
 ## Join ta guild today!
 
 ![alt text](ta7.png)
