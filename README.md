@@ -13,7 +13,7 @@ Drag and drop the folder called "DBM-VPForsen" into your World of Warcraft Addon
 Head in game and type /dbm, under "Core options > Alerts, click "Countdowns & Voice Packs", Change "Set voice for pull timers" to "Forsen VoicePack"
 ![alt text](SetUpDBM.png)
 
-## Join <TA> today!
+## Join ta guild today!
 
 ![alt text](ta7.png)
 
