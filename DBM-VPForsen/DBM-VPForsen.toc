@@ -5,7 +5,7 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Criizp
-## Version: DBM-VPForsen 0.1
+## Version: DBM-VPForsen 0.2
 ## X-Curse-Project-ID: 87828
 ## X-DBM-Voice: 1
 ## X-DBM-Voice-Name: Forsen VoicePack
@@ -13,3 +13,9 @@
 ## X-DBM-Voice-ShortName: Forsen
 ## X-DBM-Voice-Version: 13
 ## X-DBM-Voice-HasCount: 1
+## X-DBM-VictoryPack: 1
+## X-DBM-VictoryPack-GlobalName: DBMVPForsen
+## X-DBM-DefeatPack: 1
+## X-DBM-DefeatPack-GlobalName: DBMDPForsen
+
+LoadList.lua
