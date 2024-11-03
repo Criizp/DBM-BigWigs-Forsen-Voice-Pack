@@ -22,6 +22,7 @@ If you also want to enable Victory and/or Deafeat sounds you can do it by select
 Drag and drop "BigWigs_Voice_Forsen" into your World of Warcraft Addons folder "World of Warcraft\_retail_\Interface\AddOns\"
 
 Head in game and type /bw, press "Countdown" on the left column, click the "Countdown voice" drop down menu and choose "Forsen"  
+![alt text](SetUpBW.png)
 
 ## Join ta guild today!
 
