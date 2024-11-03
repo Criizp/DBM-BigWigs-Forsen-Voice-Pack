@@ -1,0 +1,15 @@
+## Interface: 100002
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Forsen|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM Медиа|r|cffffe00a>|r |cff308530Голосовой пакет Forsen|r
+## Title-koKR:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530음성팩 Forsen|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Criizp
+## Version: DBM-VPForsen 0.1
+## X-Curse-Project-ID: 87828
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Forsen VoicePack
+## X-DBM-Voice-Name-ruRU: Голосовой пакет Forsen
+## X-DBM-Voice-ShortName: Forsen
+## X-DBM-Voice-Version: 13
+## X-DBM-Voice-HasCount: 1
