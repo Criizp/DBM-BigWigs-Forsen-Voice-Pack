@@ -1,0 +1,9 @@
+## Interface: 80100
+## Author: Criizp
+## Version: 0.1.0
+## Title: BigWigs |cffff7f3f+|r|cffffffffVoice: Forsen|r
+## Notes: The one and only Arnold Schwarzenegger countdown sounds. 
+## Dependencies: BigWigs
+
+BigWigs_Voice_Forsen.lua
+
